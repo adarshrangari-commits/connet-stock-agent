@@ -1,1 +1,0 @@
-# connet-stock-agent
